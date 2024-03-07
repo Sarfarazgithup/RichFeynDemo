@@ -1,0 +1,6 @@
+module Pods_RichFeynDemo {
+  umbrella header "Pods-RichFeynDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
